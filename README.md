@@ -15,10 +15,10 @@ Staff Product Designer at GitHub. Over the years, I've had the opportunity to de
 - 📺 [UNIVERSE 22: Securing our secrets, together](https://www.youtube.com/watch?v=VbSMKxlJVc4)
 - 📺 [Microsoft Build: Shift Left: Secure Your Code and AI from the Start](https://www.youtube.com/watch?v=-cu9S7mGmBY)
 - 📺 [Microsoft Reactor: Copilot, Security, and Campaigns: A GHAS Overview](https://www.youtube.com/watch?v=HZJ2g4x6xnI)
-- 📺 [Code fixes in minutes, not months. Copilot Autofix](https://www.youtube.com/watch?v=mr6vQMDy-YU)
+- 📺 [Code fixes in minutes, not months with Copilot Autofix](https://www.youtube.com/watch?v=mr6vQMDy-YU)
 - 📺 [Transform your code security with GitHub's code scanning autofix](https://www.youtube.com/watch?v=lm9a9R9P6uc)
 
-### Blog posts
+### GitHub blog
 
 - 📄 [Track Copilot code generation metrics in a dashboard](https://github.blog/changelog/2025-12-05-track-copilot-code-generation-metrics-in-a-dashboard/)
 - 📄 [Copilot usage metrics dashboard and API in public preview](https://github.blog/changelog/2025-10-28-copilot-usage-metrics-dashboard-and-api-in-public-preview/)
