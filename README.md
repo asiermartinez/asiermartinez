@@ -4,9 +4,13 @@ Staff Product Designer at GitHub. Over the years, I've had the opportunity to de
 
 ### Work featured
 
+- 📺 [UNIVERSE 25: Opening Keynote](https://youtu.be/P6Va0_KILi4?si=L9Zl5Eifmeo-B4iJ&t=2667)
 - 📺 [UNIVERSE 25: From metrics to impact. Turn GitHub Copilot data into business value](https://www.youtube.com/watch?v=FWsAQpP6_kw)
-- 📺 [UNIVERSE 24: Found means fixed. Addressing security debt at scale](https://www.youtube.com/watch?v=4hXe7WBFzwo)
+- 📺 [UNIVERSE 24: Day 2 Keynote](https://youtu.be/uh9A4LvuGHM?si=ooFWiWFK6qh1c-N5&t=1630)
+- 📺 [UNIVERSE 24: The AI-native developer experience](https://youtu.be/dFNrunK1az8?si=yVk_WjMHwlK5Kmll&t=886)
 - 📺 [UNIVERSE 24: Securely building GitHub on GitHub](https://www.youtube.com/watch?v=eig5tJUl688)
+- 📺 [UNIVERSE 24: Found means fixed. Addressing security debt at scale](https://www.youtube.com/watch?v=4hXe7WBFzwo)
+- 📺 [UNIVERSE 23: Keynote](https://youtu.be/NrQkdDVupQE?si=BQimT_93Uqd0MVGl&t=1278)
 - 📺 [UNIVERSE 23: AI-powered security built to empower developers](https://www.youtube.com/watch?v=bvUMWug_iLU)
 - 📺 [GALAXY 23: Keynote](https://youtu.be/G9_DnebevJg?si=-YbTK9A-jVCII0qH&t=1212)
 - 📺 [UNIVERSE 22: Keynote](https://youtu.be/AYRxDoUxcfQ?si=djMCkT8pNw34mhWN&t=2317)
